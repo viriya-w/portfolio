@@ -1,0 +1,80 @@
+ .grid {
+    background-color: #111111;
+    padding-bottom: 10%;
+    margin: auto;
+}
+
+
+p2 {
+    color: rgb(255, 255, 255);
+}
+
+.image {
+    border-radius: 40px;
+    margin-top: 17%;
+    margin-left: 20%;
+    margin-bottom: 10%;
+    
+}
+  
+.text {
+    margin-top: 12%;
+    margin-left: 5%;
+    width: 65%;
+    padding: 10px;
+    
+    
+}
+
+
+h4{
+    color: rgb(108, 184, 176);
+}
+
+.button {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #f4511e;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 0px;
+    border-radius: 30px;
+  }
+  
+  .button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    color: #FFFFFF;
+    transition: 0.5s;
+  }
+  
+  .button:hover span {
+    padding-right: 25px;
+    color: #FFFFFF;
+  }
+  
+  .button:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+
+p12 {
+    color: rgb(119, 118, 118);
+   
+}

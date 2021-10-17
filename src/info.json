@@ -1,0 +1,95 @@
+[
+    {
+        "id": 1,
+        "firstname": "Viriya",
+        "lastname": "Wechwisai",
+        "email": "viriya.wec@gmail.com",
+        "phone": "(083) 433-8675",
+        "address": "754 Moo.1, Sukhumvit Road, Tambon Sam Rong Nua,Amphur Mueang,Samutprakarn, 10270",
+        "education": "Rajamangala University Of Technology Tawan-Ok : Chakrabongse Bhuvanarth Campus",
+        "degree": "Bachelor Of Science",
+        "educationyear": "June 2014 - May 2018",
+        "educationname": "Information Technology",
+        "gpa": "3.25",
+        "skills": [
+            {
+                "name": "Java",
+                "score": "Score: 4/5",
+                "description": "Java was my first programming language that I started using in college years ago. I used Java Develop program for custom csv files."
+            },
+            {
+                "name": "PYTHON",
+                "score": "Score: 3/5",
+                "description": "Python language is a short syntax. So I started to study it. And Python was my choice for developing server-side scripting language. "
+            }, 
+            {
+                "name": "SQL",
+                "score": "Score: 4/5",
+                "description": "I have used many different database systems and am better educated and experienced with Relational Databases."
+            }, 
+            {
+                "name": "HTML",
+                "score": "Score: 3/5",
+                "description": "I have studied basic HTML for learning ReactJS and used it to make this website."
+            }, 
+            {
+                "name": "REACT JS",
+                "score": "Score: 2/5",
+                "description": "I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. and I use ReactJS for developer portfolio website."
+            }, 
+            {
+                "name": "CSS",
+                "score": "Score: 3/5",
+                "description": "I have studied basic CSS for learning ReactJS and used it to make this website."
+            }, 
+            {
+                "name": "Java Script",
+                "score": "Score: 3/5",
+                "description": "I have studied basic Java Script for learning ReactJS and used it to make this website."
+            }, 
+            {
+                "name": "CA IDM",
+                "score": "Score: 3/5",
+                "description": "I have been working on this product since cooperative education. and I had the opportunity to work at the KBTG site"
+            }, 
+            {
+                "name": "Oracle OUD",
+                "score": "Score: 3/5",
+                "description": "I had the opportunity to put this product on the KTBCS site with more than 2m accounts. and maintenance system service/Resolve problem  for a customer"
+            } 
+                  ],
+        "project": [
+            {
+                "date": "December 2018 - August 2021",
+                "product": "CA Technologies (IDM)",
+                "site": "Kasikorn Business - Technology Group (KBTG)",
+                "description": [
+                    "Configuration Software",
+                    "Develop program using java language",
+                    "Test case"
+                    
+                ]
+            },
+            {
+                "date": "July 2020 - August 2021",
+                "product": "Oracle Unified Directory (OUD)",
+                "site": "KTB Computer Services Co., Ltd (KTBCS)",
+                "description": [
+                    "Install/Configuration Software",
+                    "Develop Check different account program using java language",
+                    "Create Preventive Maintenance Report"
+                ]
+            },
+            {
+                "date": "June 2021 - August 2021",
+                "product": "CyberArk (PAM)",
+                "site": "Total Access Communication Public Company Limited (DTAC)",
+                "description": [
+                    "Configure custom plugin",
+                    "Create Preventive Maintenance Report"
+                ]
+            }
+        ]
+    }
+  
+]

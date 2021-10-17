@@ -1,0 +1,100 @@
+ 
+.AppGrid {
+    background-color: #ffffff;
+    margin-top: 5%;
+}
+
+.topic {
+    margin-top: 7%;
+    margin-left: 50%;
+    background-color: rgb(255, 255, 255);
+      
+}
+
+.info {
+    margin-top: 7%;
+    background-color: rgb(255, 255, 255);
+    margin-right: 10%;
+    margin-bottom: 5%;
+}
+
+.borderBtt1 {
+    color: rgb(10, 10, 10);
+    border-bottom: 3px solid #f4511e;
+    width: 180px;
+}
+
+.borderBtt2 {
+    color: rgb(6, 7, 6);
+    border-bottom: 3px solid #f4511e;
+    width: 100px;
+}
+
+.borderBtt3 {
+    color: rgb(11, 12, 11);
+    border-bottom: 3px solid #f4511e;
+    width: 148px;
+}
+
+.borderBtt0 {
+    border-bottom: 1px solid   #9c9b9b;;
+    max-width: 100% ;
+    border-radius: 20%;
+}
+
+.textP3 {
+    font-weight: bold;
+}
+
+.textP6 {
+    font-weight: bold;
+     
+}
+
+.textP7 {
+    font-weight: bold;
+ 
+}
+
+.textH3 {
+    margin-left: 15%; 
+    font-size: 15px;
+}
+
+@media screen and (min-width: 300px) {
+    .textH3 {
+      margin-left: 0%; 
+      padding-right: 5%;
+       
+    }
+  }
+
+  @media screen and (min-width: 700px) {
+    .textH3 {
+      margin-left: 15%; 
+      padding-right: 5%;
+       
+    }
+  }
+
+
+
+
+
+
+
+  @media screen and (min-width: 760px) {
+    .textP3 {
+      margin-left:0%; 
+    }
+  }
+
+  
+ 
+
+
+h5 {
+    color: rgb(108, 184, 176);
+    font-size: 15px;
+}
+

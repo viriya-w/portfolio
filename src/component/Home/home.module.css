@@ -1,0 +1,43 @@
+.bg1 {
+    display: grid;
+    padding: 20px;
+    background-image: linear-gradient(180deg, rgb(0, 0, 0) 99%, #1b1b1b 100%);
+    margin-top: 5px;
+    height: 1300px;
+    position: relative;
+}
+
+
+.box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color:rgba(158, 157, 157, 0.671);
+    border-radius: 30px;
+    padding: 80px;
+    box-shadow:0 0 .25em rgba(0,0,0,.25);
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+
+.colorH1 {
+    color: rgb(108, 184, 176);
+    font-size: 500%;
+}
+
+
+.colorH2 {
+    color: rgb(253, 250, 250);
+    font-size: 150%;
+}
+
+
+ 
+
+
+
+
+ 

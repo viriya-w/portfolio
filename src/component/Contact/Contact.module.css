@@ -1,0 +1,65 @@
+ 
+.divContact {
+  background-color: #1b1b1b;
+  
+  }
+
+input[type=text], select {
+    width: 60%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    
+  }
+
+  input[type=email], select {
+    width: 60%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    
+
+  }
+
+  .textArea {
+    margin-left: 20%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    
+  }
+  
+
+
+.box{
+    padding-top: 5%;
+    padding-bottom: 6%;
+    margin-top: 10%;
+    margin-bottom: 0px;
+    margin-right: 20%;
+    margin-left: 26%;
+}
+
+.p11{
+  margin-top: 10%;
+  color:rgb(108, 184, 176);
+  font-size: 17px;
+
+}
+
+.p12{
+  color:rgb(242, 243, 243);
+  font-size: 17px;
+  margin-left: 120%;
+}
+
+.image {
+  border-radius: 10px;
+  margin-bottom: 7%;
+  margin-left: 35%;
+}
+
+ 

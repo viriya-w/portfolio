@@ -1,0 +1,41 @@
+.flexBox {
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    margin-left: 5%; 
+    
+  }
+
+  @media screen and (min-width: 375px) {
+    .flexBox {
+      margin-left: 13%; 
+    }
+  }
+
+  @media screen and (min-width: 500px) {
+    .flexBox {
+      margin-left: 13%; 
+    }
+  }
+
+  @media screen and (min-width: 760px) {
+    .flexBox {
+      margin-left:25%; 
+    }
+  }
+
+
+.imageSkill {
+    width: 240px;
+    height: 240px;
+    padding-top: 31%;
+    padding-left: 16%;
+    padding-right: 15%;
+    padding-bottom: 0%;
+    margin-left: 2%;
+    align-items: center;
+} 
+
+p {
+  color: rgb(128, 131, 128);
+}
